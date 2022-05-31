@@ -1,6 +1,5 @@
-# Marvel Comics
-Este projeto tem como finalidade mostrar todos os heróis da [marvel](https://developer.marvel.com/) e seus detalhes individuais.
-
+# CRUD Mobile - Atom6 Studio
+Este projeto tem como finalidade teste de conhecimento para vaga mobile.
 
 
 ## Tecnologias
