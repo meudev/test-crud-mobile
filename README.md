@@ -10,7 +10,7 @@ Este projeto tem como finalidade mostrar todos os heróis da [marvel](https://de
 * React Navigation
 * Styled-Components
 * Axios
-
+* Context Api
 
 ## Configurando ambiente
 #### 1. Clonar projeto
